@@ -1,4 +1,16 @@
 [[work]]
+number = 37
+image_url = ""
+title = "Terminal Ave."
+year_created = "2024"
+medium = "watercolor on cotton paper"
+size = [11.6, 16.5]
+description = ""
+price = 400.00
+sold = false
+accepting_offer = false
+
+[[work]]
 number = 36
 image_url = "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/f71dd2c4-f6c2-43db-d951-9e61e4e92b00/public"
 title = "Alleyway in Spring"
@@ -227,6 +239,18 @@ sold = false
 accepting_offer = false
 
 [[work]]
+number = 17
+image_url = ""
+title = "View From an Apartment"
+year_created = "2023"
+medium = "ink on paper"
+size = [9, 12]
+description = ""
+price = 100.00
+sold = false
+accepting_offer = false
+
+[[work]]
 number = 16
 image_url = "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/e524dbc7-a4b6-4961-df44-b8d30e856500/public"
 title = "Tome"
@@ -242,6 +266,18 @@ accepting_offer = false
 number = 15
 image_url = "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/3a6984f4-5c66-4202-30aa-40f61430e900/public"
 title = "Assent"
+year_created = "2021"
+medium = "ink on paper"
+size = [9, 12]
+description = ""
+price = 100.00
+sold = false
+accepting_offer = false
+
+[[work]]
+number = 14
+image_url = ""
+title = "Reveal"
 year_created = "2021"
 medium = "ink on paper"
 size = [9, 12]
